@@ -1,0 +1,38 @@
+h1 {
+    font: 700 2em/0.75 'Merriweather', Times, serif;
+}
+h2 {
+    font: 700 1.5em/1.0 'Merriweather', Times, serif;
+}
+h4 {
+    font: 400 1.2em/1.0 'Merriweather', Times, serif;
+    font-weight: bold;
+}
+p {
+    font: 400 1em/1.5 'Open Sans', sans-serif;
+}
+a.fnt:link, a.fnt:visited {
+    color: #45565c;
+}
+a.fnt:hover {
+    color: #7997a1;
+}
+/*p b {
+    font: 700 1em/1.5 'Open Sans', sans-serif;
+}*/
+body {
+    margin: 40px;
+    color: #323232;
+    background-color: #fcfcfc;
+}
+hr.divider {
+    border: 0;
+    width: 50%;
+    margin: 25px;
+    background-color: #d3d3d3;
+    height: 1px;
+}
+#summary {
+    margin-left: 12px;
+    margin-right: 12px;
+}
